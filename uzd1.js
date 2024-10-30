@@ -4,4 +4,4 @@ const countDays = (days) => {
 
 return `${days} dienos yra ${hours} valandos, arba ${minutes} minuciu`
 }
-console.log(countDays(20));
+console.log(countDays(10));
