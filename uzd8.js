@@ -1,4 +1,4 @@
-const seasons = (num) => {
+const sezonai = (num) => {
   switch (num) {
     case 12:
     case 1:
@@ -18,4 +18,4 @@ const seasons = (num) => {
       return `ruduo`;
   }
 };
-console.log(seasons(11));
+console.log(sezonai(11));
